@@ -1,0 +1,23 @@
+{
+  "name": "learningtypescript",
+  "version": "0.0.1",
+  "description": "tutorial in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauridb/learningTypeScript.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Angular"
+  ],
+  "author": "mauridb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauridb/learningTypeScript/issues"
+  },
+  "homepage": "https://github.com/mauridb/learningTypeScript#readme"
+}
